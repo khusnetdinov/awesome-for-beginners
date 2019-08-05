@@ -206,6 +206,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [osem](https://github.com/openSUSE/osem/labels/good%20first%20issue) _(label: good first issue)_ <br>Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences</br> See ["How to contribute to osem"](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md)
 - [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A) _(label: good first issue)_ <br>A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.</br> See ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md)
 - [bolt](https://github.com/puppetlabs/bolt/labels/Beginner%20Friendly) _(label: Beginner Friendly)_ <br>Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.
+- [BetterDocs](https://github.com/khusnetdinov/betterdocs/) _(label: beginner%20friendly, first%20timers%20only) <br>Documentation with collection practices in ruby. Good for new ruby developers and beginners, refreshing knowledge, interview preparation, starting learning ruby with examples.
 
 ## Rust
 
